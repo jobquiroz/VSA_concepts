@@ -23,5 +23,6 @@ The only file that needs to be runned to try our codes is Experiments.ipnyb.
 
 **Additional notes**
 To successfully try our codes is also needed to download the nltk library, specifically those modules for wordned and wordnet_ic tools. 
+Once everything is set up, running the entire 'Experiments' notebook should take around 25 minutes. The figures from the paper are automatically shown in this notebook.
 
 
